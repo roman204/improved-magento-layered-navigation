@@ -25,3 +25,13 @@ You can install this module using [Colin Mollenhour's](https://github.com/colinm
 $ modman init
 $ modman clone https://github.com/caciobanu/improved-magento-layered-navigation.git
 ```
+
+Install via composer
+--------------------
+
+You can install this module using [Magento Hackathon Team](https://github.com/magento-hackathon/magento-composer-installer)
+    {
+        "require": {
+            "multibyte/multibyte/improved_magento_layered_navigation": "1.0"
+        }
+    }
