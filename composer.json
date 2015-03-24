@@ -1,0 +1,15 @@
+{
+  "name": "multibyte/improved_magento_layered_navigation",
+  "license": "OSL-3.0",
+  "type": "magento-module",
+  "description": "Magento Advanced Layered Navigation",
+  "homepage": "https://github.com/caciobanu/improved-magento-layered-navigation",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors":[
+    {
+      "name":"Catalin Ciobanu"
+    }
+  ]
+}
