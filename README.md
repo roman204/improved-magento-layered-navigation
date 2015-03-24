@@ -30,8 +30,10 @@ Install via composer
 --------------------
 
 You can install this module using [Magento Hackathon Team](https://github.com/magento-hackathon/magento-composer-installer)
-    {
-        "require": {
-            "multibyte/multibyte/improved_magento_layered_navigation": "1.0"
-        }
+```
+{
+    "require": {
+        "multibyte/multibyte/improved_magento_layered_navigation": "1.0"
     }
+}
+```
