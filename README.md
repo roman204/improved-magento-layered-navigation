@@ -33,7 +33,7 @@ You can install this module using [Magento Hackathon Team](https://github.com/ma
 ```
 {
     "require": {
-        "multibyte/improved_magento_layered_navigation": "1.0"
+        "multibyte/improved_magento_layered_navigation": "1.1"
     }
 }
 ```
