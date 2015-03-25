@@ -23,7 +23,7 @@ You can install this module using [Colin Mollenhour's](https://github.com/colinm
 
 ```bash
 $ modman init
-$ modman clone https://github.com/caciobanu/improved-magento-layered-navigation.git
+$ modman clone https://github.com/roman204/improved-magento-layered-navigation.git
 ```
 
 Install via composer
